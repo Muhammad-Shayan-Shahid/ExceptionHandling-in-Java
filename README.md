@@ -40,7 +40,7 @@ try {
 
 ---
 
-## 🧑‍💻 **Author** 
+## ✍️ Author
 
 **Muhammad Shayan Shahid**  
 📍 Java & Front-End Learner  
