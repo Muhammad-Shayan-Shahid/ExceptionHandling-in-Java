@@ -24,6 +24,15 @@ This repo covers:
 - ✅ **Throwing Exceptions with `throw`**
 - ✅ **Declaring Exceptions with `throws`**
 
+---
+
+## ✍️ Author
+
+**Muhammad Shayan Shahid**  
+📍 Java & Front-End Learner  
+📧 [msshahid23052006@gmail.com](mailto:msshahid23052006@gmail.com)  
+
+Feel free to connect or reach out for collaboration or feedback! 🤝
 
 ---
 
@@ -37,13 +46,3 @@ try {
 } finally {
     System.out.println("✅ This block always executes.");
 }
-
----
-
-## ✍️ Author
-
-**Muhammad Shayan Shahid**  
-📍 Java & Front-End Learner  
-📧 [msshahid23052006@gmail.com](mailto:msshahid23052006@gmail.com)  
-
-Feel free to connect or reach out for collaboration or feedback! 🤝
