@@ -30,21 +30,8 @@ This repo covers:
 
 **Muhammad Shayan Shahid**  
 📍 Java & Front-End Learner  
-📧 [msshahid23052006@gmail.com](mailto:msshahid23052006@gmail.com)  
+📧 [msshahid23052006@gmail.com](mailto:msshahid23052006@gmail.com) 
 
 Feel free to connect or reach out for collaboration or feedback! 🤝
-
----
-
-## 📸 Example Code
-
-```java
-try {
-    int result = 10 / 0;
-} catch (ArithmeticException e) {
-    System.out.println("❌ Cannot divide by zero!");
-} finally {
-    System.out.println("✅ This block always executes.");
-}
 
 ---
